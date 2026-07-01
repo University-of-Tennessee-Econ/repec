@@ -1,0 +1,28 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Christian Vossler
+Author-Name-First: Christian 
+Author-Name-Last: Vossler
+Author-Workplace-Name: Department of Economics, University of Tennessee
+Author-Email: cvossler@utk.edu
+Author-Homepage: https://sites.google.com/site/christianvossler/
+Author-Name: J. Scott Holladay
+Author-Name-First:J. Scott
+Author-Name-Last:Holladay
+Author-Workplace-Name: Department of Economics, University of Tennessee
+Author-Email:jhollad3@utk.edu
+Author-Homepage:http://web.utk.edu/~jhollad3/default.html
+Abstract: The single binary choice (SBC), referendum format has long been the recommended approach for eliciting values in stated preference surveys, based on respondent familiarity and incentive compatibility arguments. Nevertheless, researchers and practitioners commonly use alternative elicitation formats, and defend their design choices on the basis of efficiency or other criterion. While we are agnostic as to what format is best, in this paper we seek to advance the idea that incentive compatible elicitation using alternative formats is possible, and that designing surveys through the lens of theory can be beneficial. We highlight this paradigm by identifying a set of conditions under which two continuous response formats – purely open-ended (OE) questions and payment cards (PCs) – are incentive compatible. We then implement theory-informed value elicitations in the context of a flood control policy for New York City. We fail to reject convergent validity when comparing the theory-driven OE format with SBC, but reject convergent validity between the theory-driven PC and SBC formats. As an informative counterfactual, we find that a “standard” OE elicitation congruent with prior work leads to significantly lower values and a lower proportion of respondents who view the elicitation as consequential.
+Title: Alternative Value Elicitation Formats in Contingent Valuation: A New Hope
+Length:  45 pages
+Creation-Date:  2016-08
+Revision-Date: 
+Publication-Status: 
+File-URL:https://university-of-tennessee-econ.github.io/repec/pdf/2016-02.pdf
+File-Format: Application/pdf
+File-Function: First version, 2016
+File-Format: Application/pdf
+File-Function: 
+Number: 2016-02
+Classification-JEL: H41, Q51, C93
+Keywords: contingent valuation, mechanism design, field experiment, flood protection
+Handle: RePEc:ten:wpaper:2016-02

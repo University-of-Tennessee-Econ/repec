@@ -1,0 +1,29 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Matt Van Essen
+Author-Name-Last: Van Essen
+Author-Name-First: Matt
+Author-Workplace-Name: Department of Economics, University of Tennessee
+Author-Email: mvanesse@utk.edu
+Author-Homepage: https://www.mattvanessen.com/
+
+
+Author-Name: Ivan Anich
+Author-Name-First: Ivan 
+Author-Name-Last: Anich
+Author-Workplace-Name: Department of Economics, University of Tennessee
+Author-Email: ianich@vols.utk.edu
+
+
+
+Abstract: The classic Lindahl allocation in a public good economy is both Pareto efficient and individually rational. However, it is easy to generate examples where the Lindahl outcome violates our intuition about economic justice. We explore how a suitable generalization of Lindahl taxation can lead to fair outcomes. We alter Lindahl’s equilibrium approach so that consumers are given personalized price schedules for the public good (as opposed to simply personalized prices). The result is a special case of Mas-Colell and Silvestre’s cost share equilibrium. We show that any outcome on the individually rational Pareto frontier can be achieved by some generalized Lindahl equilibrium. We next set up an optimization problem to search for a “just” Lindahl equilibrium. A social welfare function is first used to select an outcome on the individually rational Pareto frontier. We then provide an algorithm to construct the price functions that induce the precise generalized Lindahl equilibrium that obtains this outcome. Finally, we present a mechanism that Nash implements the set of generalized Lindahl equilibria for our environment.
+Title:  Just Lindahl Taxation –A Welfarist Solution
+Length:  37 pages
+Creation-Date: 2025-04
+File-URL:https://university-of-tennessee-econ.github.io/repec/pdf/2025-01.pdf
+File-Format: Application/pdf
+File-Function: First version, 2025
+File-Format: Application/pdf
+Number: 2025-01
+Classification-JEL: C72, H21, H41
+Handle: RePEc:ten:wpaper:2025-01

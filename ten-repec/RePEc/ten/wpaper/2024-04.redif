@@ -1,0 +1,23 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Matt Van Essen
+Author-Name-Last: Van Essen
+Author-Name-First: Matt
+Author-Workplace-Name: Department of Economics, University of Tennessee
+Author-Email: mvanesse@utk.edu
+Author-Homepage: https://www.mattvanessen.com/
+
+Abstract: We introduce a unifying stability concept to cooperative game theory–the equity equilibrium. A central authority selects an outcome of the game to enforce and evaluates its stability using a collection of functions called a “complaint system.”These complaints are used to identify the grievances against and the concessions to each player. Equity equilibrium occurs when an individually rational payoff configuration balances the grievances and concessions of each player. We establish the existence of equity equilibrium for any valid complaint system and under any coalition structure. Next, we show that equity equilibrium under specific complaint systems characterizes the kernel, the Shapley value, and the generalized Nash bargaining solution of a cooperative game. We show how simplicial algorithms can be employed for computing any type of equity equilibrium. This approach is illustrated with an example from the Tennessee Valley Authority. 
+Title: Equity Equilibrium for Cooperative Games
+Length:  47 pages
+Creation-Date:  2024-11
+Revision-Date: 
+File-URL:https://university-of-tennessee-econ.github.io/repec/pdf/2024-04.pdf
+File-Format: Application/pdf
+File-Function: First version, 2024
+File-Format: Application/pdf
+File-Function: 
+Number: 2024-04
+Classification-JEL: C92, D82, D9, H41, Q51
+Keywords: Cooperative Games, Equity Equilibrium, Kernel, Shapley Value, Computation of Cooperative Solutions
+Handle: RePEc:ten:wpaper:2024-04_1
