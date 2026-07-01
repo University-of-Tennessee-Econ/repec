@@ -1,34 +1,0 @@
-Template-Type: ReDIF-Paper 1.0
-Author-Name: Charles Sims
-Author-Name-First: Sims
-Author-Name-Last: Vossler
-Author-Workplace-Name: Howard H. Baker Jr. Center for Public Policy and Department of Economics, University of Tennessee
-Author-Email:cbsims@utk.edu
-Author-Homepage:http://web.utk.edu/~cbsims
-Author-Name: Betsy Heines
-Author-Name-First: Betsy 
-Author-Name-Last: Heines 
-Author-Workplace-Name: Mathematics Department, University of Tennessee
-Author-Email:eheines@vols.utk.edu
-Author-Homepage:http://econ.bus.utk.edu/department/faculty/gilpatric.asp
-Author-Name:  Suzanne Lenhart
-Author-Name-First: Suzanne 
-Author-Name-Last: Lenhart
-Author-Workplace-Name: Mathematics Department, University of Tennessee
-Author-Email:lenhart@math.utk.edu
-Author-Homepage:https://www.math.utk.edu/~lenhart/
-Abstract: The number of large-scale, high-severity forest fires occurring in the United States is increasing, as is the cost to suppress these fires. One of the key challenges in studying the costs and benefits of forest are prevention management is the incorporation of risk and uncertainty surrounding management decisions. We use a technique developed by William Reed to incorporate the stochasticity of the time of a forest fire into our optimal control problem. Using this optimal control problem we explore the potential trade-offs between prevention management spending and suppression spending, along with the overall economic viability of prevention management spending. Our goal is to determine the optimal fire prevention management spending rate and the optimal re suppression spending which maximizes the expected value of a forest. We develop a parameter set reecting the 2011 Las Conchas Fire in New Mexico and numerically solve our optimal control problem. Furthermore, we adapt this problem to simulate a sequence of fires and corresponding controls. We perform a simulation study to determine how, on average, prevention management spending aects the value of a forest given an unknown number of fires over a fixed management horizon. Overall, our results support the conclusion that the prevention management eorts offset rising suppression costs and increase the value of a forest overall. 
-Title: Assessing the Economic Tradeoffs Between Prevention and Suppression of Forest Fires
-Length:  57 pages
-Creation-Date:  2017-03
-Revision-Date: 
-Publication-Status: 
-File-URL:https://university-of-tennessee-econ.github.io/repec/pdf/2017-05.pdf
-File-Format: Application/pdf
-File-Function: First version, 2017
-File-Format: Application/pdf
-File-Function: 
-Number: 2017-05
-Classification-JEL: Q2; C6
-Keywords: forest fire; optimal control; stochasticity
-Handle: RePEc:ten:wpaper:2017-05
